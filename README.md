@@ -1,1 +1,1 @@
-# Course_Syllabus_Script-
+# d2l_syllabus_script
